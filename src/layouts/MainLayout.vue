@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          6704101406 monthakan thepsit
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
